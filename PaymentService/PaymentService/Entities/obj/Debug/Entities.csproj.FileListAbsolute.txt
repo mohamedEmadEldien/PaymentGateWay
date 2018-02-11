@@ -1,0 +1,7 @@
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\bin\Debug\Entities.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\bin\Debug\Entities.pdb
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\bin\Debug\Utilities.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\bin\Debug\Utilities.pdb
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\obj\Debug\Entities.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Entities\obj\Debug\Entities.pdb

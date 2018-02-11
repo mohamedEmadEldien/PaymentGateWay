@@ -1,0 +1,11 @@
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Business.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Business.pdb
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Utilities.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Utilities.pdb
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\obj\Debug\Business.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\obj\Debug\Business.pdb
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Data.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Entities.dll
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Data.pdb
+E:\memad\PaySkyTask\PaymentService\PaymentService\Business\bin\Debug\Entities.pdb

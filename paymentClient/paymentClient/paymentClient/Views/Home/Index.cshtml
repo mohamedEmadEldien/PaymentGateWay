@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="form-group">
+            <label for="usr">Name:</label>
+            <input type="text" class="form-control" id="usr">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Password:</label>
+            <input type="password" class="form-control" id="pwd">
+        </div>
+        <button type="button" class="btn" onclick="getEncryptionKey()">submit</button>
+    </div>
+    <div class="col-md-12"></div>
+    <div class="col-md-12"></div>
+    <div class="col-md-12"></div>
+        <div class="col-md-12">
+            <button type="button" class="btn" onclick="payment()">pay</button>
+        </div>
+
+    </div>
+<script src="~/Scripts/mainScript.js"></script>
